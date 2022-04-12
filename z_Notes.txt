@@ -1,0 +1,10 @@
+web-deb-server ERROR:
+- exports not defined 
+
+project abandoned at this point 
+
+https://lit.dev/tutorial/
+- lit elements tutorial 
+https://lit.dev/docs/components/overview/
+- lit doc 
+
